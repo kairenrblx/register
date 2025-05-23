@@ -1,9 +1,14 @@
 {
-    "owner": {
-        "username": "kairenrblx",
-        "email": "pizzaplanetbs@gmail.com"
-    },
-    "records": {
-        "CNAME": "suhl2-portfolio.pages.dev"
+  "domain": "is-a.dev",
+  "subdomain": "suhl2",
+  "owner": {
+    "username": "kairenrblx",
+    "email": "pizzaplanetbs@gmail.com"
+  },
+  "records": {
+    "CNAME": {
+      "@": "suhl2-portfolio.pages.dev"
     }
+  },
+  "proxied": true
 }
